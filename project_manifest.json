@@ -1,0 +1,13 @@
+{
+  "dataset": "Iris",
+  "sample_size": 150,
+  "hypothesis": "Mean petal length is equal across the three species",
+  "classical_anova_F": 1180.161182252976,
+  "classical_anova_p": 2.856776610962404e-91,
+  "welch_F": 1828.0919450856877,
+  "welch_p": 2.6933273587151527e-66,
+  "eta_squared": 0.9413717190573677,
+  "levene_p": 3.1287566394085397e-08,
+  "visualizations": 5,
+  "report": "Week3_Statistical_Analysis_Hypothesis_Testing_Report.docx"
+}
